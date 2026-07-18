@@ -1,6 +1,6 @@
 # White Knowledge Erasure Dataset (WKED)
 
-Creators: Ohan Ahmad       (ohanahma@buffalo.edu) 
+Creators: Ohan Ahmad       (ohanahma@buffalo.edu) &
           Sasha Richardson (srichardson1@gradcenter.cuny.edu)
          
 
