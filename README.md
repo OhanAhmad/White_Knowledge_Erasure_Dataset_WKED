@@ -1,7 +1,8 @@
 # White Knowledge Erasure Dataset (WKED)
 
-Creators: Sasha Richardson (srichardson1@gradcenter.cuny.edu)
-         Ohan Ahmad       (ohanahma@buffalo.edu)
+Creators: Ohan Ahmad       (ohanahma@buffalo.edu) 
+          Sasha Richardson (srichardson1@gradcenter.cuny.edu)
+         
 
 Institution: SBS Summer Institute, Medgar Evers College, CUNY
 
@@ -10,7 +11,7 @@ Affiliation: Summer Youth Employment Program (SYEP)
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (MIT License)
 
 Citation:
-Richardson, S., Ahmad O. (2025). White Knowledge Erasure Dataset (WKED) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20149117
+Richardson, S., Ahmad O. (2025). White Knowledge Erasure Dataset (WKED) https://github.com/OhanAhmad/White_Knowledge_Erasure_Dataset_WKED 
 
 ---
 
