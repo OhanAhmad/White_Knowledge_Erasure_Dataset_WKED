@@ -11,7 +11,7 @@ Affiliation: Summer Youth Employment Program (SYEP)
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (MIT License)
 
 Citation:
-Richardson, S., Ahmad O. (2025). White Knowledge Erasure Dataset (WKED) https://github.com/OhanAhmad/White_Knowledge_Erasure_Dataset_WKED 
+Ahmad O., Richardson, S. (2025). White Knowledge Erasure Dataset (WKED) https://github.com/OhanAhmad/White_Knowledge_Erasure_Dataset_WKED 
 
 ---
 
