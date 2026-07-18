@@ -43,7 +43,7 @@ The dataset supports both qualitative and quantitative analysis of hallucination
 - Which verification sources and annotation strategies are most effective for human-in-the-loop validation?
 
 **Limitations and appropriate use:**
-WKED catalogs model errors and should not be treated as a verified historical corpus; users should consult primary sources for factual claims. Annotations are human-coded and involve interpretive judgment. Model outputs reflect behavior during the collection window (2025-12-15 to 2025-12-18) and may not generalize to later model versions.
+WKED catalogs model errors and should not be treated as a verified historical corpus; users should consult primary sources for factual claims. Annotations are human-coded and involve interpretive judgment. Model outputs reflect behavior during the collection window (2026-07-15 to 2026-07-18) and may not generalize to later model versions.
 
 ---
 
@@ -83,7 +83,7 @@ WKED catalogs model errors and should not be treated as a verified historical co
 
 Data was generated from AI model APIs (GPT-5, Google Gemini, Claude). Prompts and human verification sources used to derive labelled hallucinations.
 
-Date of data collection: 2026-07-18 to 2026-07-18 
+Date of data collection: 2026-07-15 to 2026-07-18 
 
 ### Data and File Overview
 
