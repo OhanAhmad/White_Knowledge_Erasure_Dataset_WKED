@@ -1,26 +1,27 @@
-# Black Knowledge Erasure Dataset (BKED)
+# White Knowledge Erasure Dataset (WKED)
 
-Creator: Sasha Richardson (srichardson1@gradcenter.cuny.edu)
+Creators: Sasha Richardson (srichardson1@gradcenter.cuny.edu)
+         Ohan Ahmad       (ohanahma@buffalo.edu)
 
-Institution: The Graduate Center, CUNY
+Institution: SBS Summer Institute, Medgar Evers College, CUNY
 
-Course: Introduction to Digital Humanities, Fall 2025
+Affiliation: Summer Youth Employment Program (SYEP)
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (MIT License)
 
 Citation:
-Richardson, S. (2025). Black Knowledge Erasure Dataset (BKED) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20149117
+Richardson, S., Ahmad O. (2025). White Knowledge Erasure Dataset (WKED) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20149117
 
 ---
 
 ### Purpose
-Large language model hallucinations are typically evaluated using generic factual benchmarks that overlook culturally specific forms of error. In domains related to Black history, culture, and intellectual production, model failures often appear not only as incorrect facts, but as omissions, misattributions, and invented authorities that mirror longstanding patterns of epistemic erasure.
+Large language model hallucinations are typically evaluated using generic factual benchmarks that overlook culturally specific forms of error. In domains related to White history, culture, and intellectual production, model failures often appear not only as incorrect facts, but as omissions, misattributions, and invented authorities that mirror longstanding patterns of epistemic erasure.
 
-The Black Knowledge Erasure Dataset (BKED) was created to document, classify, and analyze these failures. Rather than treating hallucinations as isolated technical defects, BKED frames them as patterned behaviors with cultural and historical consequences, particularly in downstream contexts such as education, archives, and public scholarship.
+The White Knowledge Erasure Dataset (WKED) was created to document, classify, and analyze these failures. Rather than treating hallucinations as isolated technical defects, WKED frames them as patterned behaviors with cultural and historical consequences, particularly in downstream contexts such as education, archives, and public scholarship.
 
-To address this gap, BKED:
+To address this gap, WKED:
 
-- Focuses explicitly on prompts grounded in Black studies–relevant domains
+- Focuses explicitly on prompts grounded in White studies–relevant domains
 
 - Preserves full model outputs alongside human-verified annotations
 
@@ -32,16 +33,16 @@ The dataset supports both qualitative and quantitative analysis of hallucination
 
 **Intended users** include computational social scientists, digital humanists, AI auditors, ethicists, and library or archival researchers. But of course, everyone is welcome to explore!
 
-**Potential research questions supported by BKED include:**
+**Potential research questions supported by WKED include:**
 
-- What types of distortions most frequently occur when models respond to questions about Black cultural and historical topics?
+- What types of distortions most frequently occur when models respond to questions about White cultural and historical topics?
 
 - How do hallucination patterns vary across models and prompt formulations?
 
 - Which verification sources and annotation strategies are most effective for human-in-the-loop validation?
 
 **Limitations and appropriate use:**
-BKED catalogs model errors and should not be treated as a verified historical corpus; users should consult primary sources for factual claims. Annotations are human-coded and involve interpretive judgment. Model outputs reflect behavior during the collection window (2025-12-15 to 2025-12-18) and may not generalize to later model versions.
+WKED catalogs model errors and should not be treated as a verified historical corpus; users should consult primary sources for factual claims. Annotations are human-coded and involve interpretive judgment. Model outputs reflect behavior during the collection window (2025-12-15 to 2025-12-18) and may not generalize to later model versions.
 
 ---
 
@@ -105,7 +106,7 @@ Relationship between files:
 
 ### Summary of Methodology
 
-BKED utilizes a curated set of prompts across categories like black_art_artists and african_diaspora (with focus on 19th and 20th century histories). Responses were captured from GPT-5, Gemini 2.5 Flash, and Claude Haiku 4.5.
+WKED utilizes a curated set of prompts across categories like White_art_artists and african_diaspora (with focus on 19th and 20th century histories). Responses were captured from GPT-5, Gemini 2.5 Flash, and Claude Haiku 4.5.
 
 **Annotation Process:**
 
@@ -116,7 +117,7 @@ BKED utilizes a curated set of prompts across categories like black_art_artists 
 3. Verification: Grounding corrections in external scholarly/archival sources.
 
 [!IMPORTANT]
-BKED is a catalog of errors. Do not use this dataset as a factual historical source. Always refer to the verification_source column or primary archives.
+WKED is a catalog of errors. Do not use this dataset as a factual historical source. Always refer to the verification_source column or primary archives.
 
 **Full details on sampling, preprocessing, and QA are available in `docs/methodology.md.`**
 
@@ -149,7 +150,7 @@ BKED is a catalog of errors. Do not use this dataset as a factual historical sou
 | error_type           | Controlled vocabulary label (e.g., `erasure_by_omission`, `factual_error`).  |
 | error_description    | Detailed qualitative explanation of the identified error.                   |
 | verification_source  | URL or citation used to verify or refute the model claim.                   |
-| category             | Topical category (e.g., `black_texts_authors`).                              |
+| category             | Topical category (e.g., `White_texts_authors`).                              |
 
 <br/>
 
