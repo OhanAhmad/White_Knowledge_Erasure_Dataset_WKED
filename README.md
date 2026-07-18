@@ -82,7 +82,7 @@ WKED catalogs model errors and should not be treated as a verified historical co
 
 Data was generated from AI model APIs (GPT-5, Google Gemini, Claude). Prompts and human verification sources used to derive labelled hallucinations.
 
-Date of data collection: 2025-12-15 to 2025-12-18 
+Date of data collection: 2026-07-18 to 2026-07-18 
 
 ### Data and File Overview
 
