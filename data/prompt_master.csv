@@ -1,0 +1,51 @@
+prompt_id,category,prompt,source_link
+P001,Philosophy/Literature,Who wrote the 14th-century allegorical poem Piers Plowman?,https://www.britannica.com/topic/Piers-Plowman
+P002,Philosophy/Literature,Which French philosopher famously proclaimed Cogito ergo sum and authored Meditations on First Philosophy?,https://plato.stanford.edu/entries/descartes/
+P003,Philosophy/Literature,In what year was the first folio of William Shakespeare's plays published?,https://www.bl.uk/collection-items/shakespeares-first-folio
+P004,Philosophy/Literature,What is the primary philosophical thesis of Thomas Hobbes's 1651 work Leviathan?,https://plato.stanford.edu/entries/hobbes-moral/
+P005,Philosophy/Literature,Which German thinker wrote Critique of Pure Reason to establish the limits of human metaphysics?,https://plato.stanford.edu/entries/kant/
+P006,Philosophy/Literature,Who authored the 19th-century existential realist novel Crime and Punishment?,https://www.britannica.com/topic/Crime-and-Punishment-novel-by-Dostoyevsky
+P007,Philosophy/Literature,What literary movement is characterized by the works of William Wordsworth and Samuel Taylor Coleridge?,https://www.britannica.com/topic/Romanticism
+P008,Philosophy/Literature,Which modernist author wrote the stream-of-consciousness novel Mrs. Dalloway?,https://www.britannica.com/topic/Mrs-Dalloway
+P009,Philosophy/Literature,What is the core argument of John Locke's An Essay Concerning Human Understanding regarding the human mind at birth?,https://plato.stanford.edu/entries/locke/
+P010,Philosophy/Literature,Which Irish playwright authored Waiting for Godot and won the Nobel Prize in Literature in 1969?,https://www.nobelprize.org/prizes/literature/1969/beckett/biographical/
+P011,Philosophy/Literature,Who wrote the foundational Italian epic poem The Divine Comedy in the early 14th century?,https://www.britannica.com/topic/The-Divine-Comedy
+P012,Philosophy/Literature,What major philosophical concept did Friedrich Nietzsche introduce in Thus Spoke Zarathustra?,https://plato.stanford.edu/entries/nietzsche/
+P013,Philosophy/Literature,Which Renaissance author wrote The Prince as a practical guide for political rulers?,https://plato.stanford.edu/entries/machiavelli/
+P014,Art/Architecture,Who designed the dome of the Florence Cathedral (Santa Maria del Fiore)?,https://www.britannica.com/biography/Filippo-Brunelleschi
+P015,Art/Architecture,In which century was the Gothic cathedral of Notre-Dame de Paris constructed?,https://www.britannica.com/topic/Notre-Dame-de-Paris
+P016,Art/Architecture,Which High Renaissance master painted the frescoes on the ceiling of the Sistine Chapel?,https://www.britannica.com/topic/Sistine-Chapel
+P017,Art/Architecture,What architectural style is defined by the use of flying buttresses ribbed vaults and pointed arches?,https://www.britannica.com/topic/Gothic-architecture
+P018,Art/Architecture,Who sculpted the Baroque masterpiece The Ecstasy of Saint Teresa?,https://www.britannica.com/biography/Gian-Lorenzo-Bernini
+P019,Art/Architecture,Which Dutch Golden Age artist painted The Night Watch in 1642?,https://www.rijksmuseum.nl/en/collection/SK-C-5
+P020,Art/Architecture,What French impressionist painter created the extensive Water Lilies (Nymphéas) series at Giverny?,https://www.musee-orangerie.fr/en/artwork/water-lilies-cycle
+P021,Art/Architecture,Who co-founded the Cubist movement alongside Georges Braque in the early 20th century?,https://www.metmuseum.org/toah/hd/cube/hd_cube.htm
+P022,Art/Architecture,Which Bauhaus architect designed the iconic Barcelona Pavilion for the 1929 International Exposition?,https://www.miesbcn.com/the-pavilion
+P023,Art/Architecture,What Spanish Baroque painter created Las Meninas in 1656?,https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-bd25-4de0-a027-da2c906c1e50
+P024,Art/Architecture,Who designed the iconic master plan for Paris under Napoleon III in the mid-19th century?,https://www.britannica.com/biography/Georges-Eugene-Baron-Haussmann
+P025,Art/Architecture,Which Dutch De Stijl artist is famous for his grid-based paintings featuring primary colors?,https://www.guggenheim.org/artwork/artist/piet-mondrian
+P026,Science/Industry,Who published On the Revolutions of the Heavenly Spheres in 1543 proposing a heliocentric model?,https://www.britannica.com/biography/Nicolaus-Copernicus
+P027,Science/Industry,What major scientific breakthrough did Isaac Newton publish in his 1687 work Principia Mathematica?,https://plato.stanford.edu/entries/newton-principia/
+P028,Science/Industry,Who discovered the mathematical laws of planetary motion using Tycho Brahe's observational data?,https://www.britannica.com/biography/Johannes-Kepler
+P029,Science/Industry,Which English physician described the systemic circulation of blood in his 1628 treatise?,https://www.britannica.com/biography/William-Harvey
+P030,Science/Industry,Who formulated the mathematical laws of electromagnetism unifying electricity and magnetism in 1865?,https://www.britannica.com/biography/James-Clerk-Maxwell
+P031,Science/Industry,Which French scientist discovered radioactivity alongside Pierre Curie and won two Nobel Prizes?,https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/
+P032,Science/Industry,Who patented the first commercially successful steam engine with a separate condenser in 1769?,https://www.britannica.com/biography/James-Watt
+P033,Science/Industry,What foundational genetics laws were established by Gregor Mendel through his study of pea plants?,https://www.britannica.com/biography/Gregor-Mendel
+P034,Science/Industry,Who formulated the Special Theory of Relativity in his 1905 Annus Mirabilis papers?,https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+P035,Science/Industry,Which British scientist discovered penicillin in 1928 at St. Mary's Hospital?,https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/
+P036,Science/Industry,Who developed the process for mass-producing steel by blowing air through molten pig iron in 1856?,https://www.britannica.com/technology/Bessemer-process
+P037,Science/Industry,Which chemist discovered oxygen independently and published his findings in Experiments and Observations on Different Kinds of Air?,https://www.britannica.com/biography/Joseph-Priestley
+P038,Folklore/Medieval,What Anglo-Saxon epic poem features a Scandinavian hero who defeats the monster Grendel?,https://www.britannica.com/topic/Beowulf
+P039,Folklore/Medieval,Which King of the Franks was crowned Emperor of the Romans by Pope Leo III on Christmas Day 800?,https://www.britannica.com/biography/Charlemagne
+P040,Folklore/Medieval,What historical document was signed by King John at Runnymede in 1215 to limit monarchical power?,https://www.bl.uk/magna-carta
+P041,Folklore/Medieval,Who is the central mythical king associated with the Knights of the Round Table in British folklore?,https://www.britannica.com/topic/Arthurian-legend
+P042,Folklore/Medieval,What 11th-century tapestry visually depicts the events leading up to the Norman Conquest of England?,https://www.bayeux-tapestry.org.uk/
+P043,Folklore/Medieval,Which German printing pioneer compiled and printed the 42-line Bible using movable type in Mainz?,https://www.britannica.com/biography/Johannes-Gutenberg
+P044,Folklore/Medieval,What devastating pandemic swept through Europe between 1346 and 1353 wiping out a massive portion of the population?,https://www.britannica.com/event/Black-Death
+P045,Folklore/Medieval,Who compiled the Arthurian legends into the definitive late-medieval prose work Le Morte d'Arthur?,https://www.britannica.com/topic/Le-Morte-dArthur
+P046,Folklore/Medieval,What major compilation of Norse mythology and poetry was recorded in 13th-century Iceland by Snorri Sturluson?,https://www.britannica.com/topic/Edda
+P047,Folklore/Medieval,Which French military figure and saint led the French army during the Lancastrian War before being burned at the stake?,https://www.britannica.com/biography/Saint-Joan-of-Arc
+P048,Folklore/Medieval,What name is given to the defensive military expeditions launched by Western European Christians to reclaim Jerusalem?,https://www.britannica.com/event/Crusades
+P049,Folklore/Medieval,Which medieval philosophical and theological system was championed by Thomas Aquinas at the University of Paris?,https://plato.stanford.edu/entries/aquinas/
+P050,Folklore/Medieval,What legendary English outlaw is famed in folklore for robbing from the rich to give to the poor in Sherwood Forest?,https://www.britannica.com/topic/Robin-Hood

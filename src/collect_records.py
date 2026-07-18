@@ -3,14 +3,18 @@ import os
 import datetime
 import csv
 from pathlib import Path
+from dotenv import load_dotenv
 import openai
 from google import genai
 from anthropic import Anthropic
 
-# API Keys
-openai.api_key = ""
-CLAUDE_API_KEY = ""
-GEMINI_API_KEY = ""
+#load from .env
+load_dotenv()
+
+#secure .env grab
+openai.api_key = os.getenv("OPENAI_API_KEY")
+CLAUDE_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Initialize clients
 claude_client = Anthropic(api_key=CLAUDE_API_KEY)
