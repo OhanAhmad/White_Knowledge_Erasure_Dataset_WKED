@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-46",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P023",
+  "prompt": "What Spanish Baroque painter created Las Meninas in 1656?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-bd25-4de0-a027-da2c906c1e50",
+  "response": "The Spanish Baroque painter who created Las Meninas in 1656 was Diego Vel\u00e1zquez. He was a leading artist in the court of King Philip IV of Spain."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-21",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P009",
+  "prompt": "What is the core argument of John Locke's An Essay Concerning Human Understanding regarding the human mind at birth?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/locke/",
+  "response": "Locke's core argument is that the human mind at birth is a \"blank slate\" (tabula rasa) with no innate ideas, and that all knowledge comes from experience through sensation and reflection. He rejected the notion that humans are born with predetermined ideas or knowledge, asserting instead that the mind is gradually filled through sensory experience and the mental processing of that experience."
+}

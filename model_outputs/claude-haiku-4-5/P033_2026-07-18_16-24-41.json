@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-41",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P033",
+  "prompt": "What foundational genetics laws were established by Gregor Mendel through his study of pea plants?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Gregor-Mendel",
+  "response": "Gregor Mendel established the foundational principles of inheritance, including the **Law of Segregation** (traits are inherited through discrete units that separate during reproduction) and the **Law of Independent Assortment** (different traits are inherited independently of each other). These laws, discovered through his controlled breeding experiments with pea plants, formed the basis of modern genetics."
+}

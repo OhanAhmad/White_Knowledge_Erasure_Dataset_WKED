@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-46",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P013",
+  "prompt": "Which Renaissance author wrote The Prince as a practical guide for political rulers?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/machiavelli/",
+  "response": "Niccol\u00f2 Machiavelli wrote *The Prince*, a influential Renaissance text that offered practical, often cynical advice on how political rulers could gain and maintain power."
+}

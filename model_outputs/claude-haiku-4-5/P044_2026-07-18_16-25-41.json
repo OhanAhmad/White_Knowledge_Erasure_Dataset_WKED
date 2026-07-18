@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-41",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P044",
+  "prompt": "What devastating pandemic swept through Europe between 1346 and 1353 wiping out a massive portion of the population?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/event/Black-Death",
+  "response": "The Black Death (bubonic plague) swept through Europe between 1346 and 1353, killing an estimated 75-200 million people and wiping out approximately 30-60% of Europe's population. It was one of the most devastating pandemics in human history."
+}

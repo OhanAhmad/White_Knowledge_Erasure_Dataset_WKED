@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-13",
+  "model": "gpt-5",
+  "prompt_id": "P017",
+  "prompt": "What architectural style is defined by the use of flying buttresses ribbed vaults and pointed arches?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Gothic-architecture",
+  "response": "Gothic architecture\u2014the medieval European style characterized by pointed arches, ribbed vaults, and flying buttresses."
+}

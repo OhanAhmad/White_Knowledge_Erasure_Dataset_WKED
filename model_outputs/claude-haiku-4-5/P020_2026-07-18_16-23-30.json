@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-30",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P020",
+  "prompt": "What French impressionist painter created the extensive Water Lilies (Nymph\u00e9as) series at Giverny?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.musee-orangerie.fr/en/artwork/water-lilies-cycle",
+  "response": "Claude Monet created the extensive Water Lilies (Nymph\u00e9as) series at his garden in Giverny, France, painting these works from the 1890s until his death in 1926."
+}

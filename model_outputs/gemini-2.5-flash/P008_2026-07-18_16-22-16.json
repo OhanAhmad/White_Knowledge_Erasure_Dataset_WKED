@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-16",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P008",
+  "prompt": "Which modernist author wrote the stream-of-consciousness novel Mrs. Dalloway?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Mrs-Dalloway",
+  "response": "Virginia Woolf wrote the acclaimed stream-of-consciousness novel *Mrs. Dalloway*. Her innovative use of this narrative technique allowed readers to experience a single day in the life of her characters through their innermost thoughts and perceptions."
+}

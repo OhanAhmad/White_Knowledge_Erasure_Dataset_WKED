@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-55",
+  "model": "gpt-5",
+  "prompt_id": "P025",
+  "prompt": "Which Dutch De Stijl artist is famous for his grid-based paintings featuring primary colors?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.guggenheim.org/artwork/artist/piet-mondrian",
+  "response": "Piet Mondrian. He\u2019s renowned for grid-based compositions with black lines and blocks of primary colors."
+}

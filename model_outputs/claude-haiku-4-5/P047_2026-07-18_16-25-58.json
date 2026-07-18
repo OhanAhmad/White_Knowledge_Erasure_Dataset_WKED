@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-58",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P047",
+  "prompt": "Which French military figure and saint led the French army during the Lancastrian War before being burned at the stake?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+  "response": "Joan of Arc led the French army during the Hundred Years' War (often called the Lancastrian War) against English forces before being captured and burned at the stake in 1431. She was later canonized as a saint in 1920."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-36",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P032",
+  "prompt": "Who patented the first commercially successful steam engine with a separate condenser in 1769?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/James-Watt",
+  "response": "James Watt patented the first commercially successful steam engine with a separate condenser in 1769. This innovation significantly improved efficiency over previous designs like the Newcomen engine."
+}

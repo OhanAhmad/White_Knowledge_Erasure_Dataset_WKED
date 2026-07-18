@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-32",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P020",
+  "prompt": "What French impressionist painter created the extensive Water Lilies (Nymph\u00e9as) series at Giverny?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.musee-orangerie.fr/en/artwork/water-lilies-cycle",
+  "response": "Claude Monet, the renowned French Impressionist painter, created the extensive Water Lilies (Nymph\u00e9as) series. He dedicated the last three decades of his life to this iconic collection, painting them at his home in Giverny."
+}

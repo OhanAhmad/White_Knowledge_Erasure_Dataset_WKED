@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-32",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P042",
+  "prompt": "What 11th-century tapestry visually depicts the events leading up to the Norman Conquest of England?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.bayeux-tapestry.org.uk/",
+  "response": "The Bayeux Tapestry is the 11th-century tapestry that visually depicts the events leading up to the Norman Conquest of England. This famous embroidered cloth vividly illustrates William the Conqueror's invasion and the Battle of Hastings in 1066."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-47",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P045",
+  "prompt": "Who compiled the Arthurian legends into the definitive late-medieval prose work Le Morte d'Arthur?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Le-Morte-dArthur",
+  "response": "Sir Thomas Malory, a 15th-century English knight, compiled the diverse Arthurian legends into the definitive late-medieval prose work known as *Le Morte d'Arthur*. This comprehensive collection, finished around 1469-1470 and first printed by William Caxton in 1485, became the foundational text for many subsequent retellings."
+}

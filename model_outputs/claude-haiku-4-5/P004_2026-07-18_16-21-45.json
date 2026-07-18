@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-45",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P004",
+  "prompt": "What is the primary philosophical thesis of Thomas Hobbes's 1651 work Leviathan?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/hobbes-moral/",
+  "response": "Hobbes argues that humans in a \"state of nature\" are naturally competitive and violent, making life \"solitary, poor, nasty, brutish, and short,\" so they must surrender their individual rights to an absolute sovereign authority (the Leviathan) to achieve peace and security. This thesis establishes the foundation for social contract theory and justifies absolute monarchy as the necessary remedy for humanity's natural condition of conflict."
+}

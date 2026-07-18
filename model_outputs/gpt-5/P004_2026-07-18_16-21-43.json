@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-43",
+  "model": "gpt-5",
+  "prompt_id": "P004",
+  "prompt": "What is the primary philosophical thesis of Thomas Hobbes's 1651 work Leviathan?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/hobbes-moral/",
+  "response": "Hobbes argues that without a common power to keep people in awe, the state of nature is a war of all against all. To secure peace and self-preservation, individuals rationally consent to submit their rights to an undivided, absolute sovereign."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-31",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P031",
+  "prompt": "Which French scientist discovered radioactivity alongside Pierre Curie and won two Nobel Prizes?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+  "response": "Marie Curie, a French and naturalized-Polish scientist, discovered radioactivity alongside her husband Pierre Curie. She was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields."
+}

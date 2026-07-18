@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-19",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P029",
+  "prompt": "Which English physician described the systemic circulation of blood in his 1628 treatise?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/William-Harvey",
+  "response": "The English physician who described the systemic circulation of blood in his 1628 treatise, *De Motu Cordis*, was William Harvey."
+}

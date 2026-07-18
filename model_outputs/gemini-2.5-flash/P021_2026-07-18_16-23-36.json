@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-36",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P021",
+  "prompt": "Who co-founded the Cubist movement alongside Georges Braque in the early 20th century?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.metmuseum.org/toah/hd/cube/hd_cube.htm",
+  "response": "Pablo Picasso co-founded the Cubist movement alongside Georges Braque in the early 20th century, developing its revolutionary approach to depicting objects from multiple viewpoints."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-26-13",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P049",
+  "prompt": "Which medieval philosophical and theological system was championed by Thomas Aquinas at the University of Paris?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://plato.stanford.edu/entries/aquinas/",
+  "response": "At the University of Paris, Thomas Aquinas championed Scholasticism, particularly his own unique philosophical and theological system known as Thomism. This system sought to reconcile Aristotelian philosophy with Christian doctrine."
+}

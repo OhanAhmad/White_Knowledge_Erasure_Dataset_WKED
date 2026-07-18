@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-28",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P010",
+  "prompt": "Which Irish playwright authored Waiting for Godot and won the Nobel Prize in Literature in 1969?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.nobelprize.org/prizes/literature/1969/beckett/biographical/",
+  "response": "Samuel Beckett, an Irish playwright, authored \"Waiting for Godot\" and was awarded the Nobel Prize in Literature in 1969."
+}

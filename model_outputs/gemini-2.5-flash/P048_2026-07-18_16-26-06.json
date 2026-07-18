@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-26-06",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P048",
+  "prompt": "What name is given to the defensive military expeditions launched by Western European Christians to reclaim Jerusalem?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/event/Crusades",
+  "response": "These defensive military expeditions launched by Western European Christians to reclaim Jerusalem are known as the Crusades."
+}

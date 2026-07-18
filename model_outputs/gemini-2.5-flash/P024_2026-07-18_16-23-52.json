@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-52",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P024",
+  "prompt": "Who designed the iconic master plan for Paris under Napoleon III in the mid-19th century?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/biography/Georges-Eugene-Baron-Haussmann",
+  "response": "Baron Georges-Eug\u00e8ne Haussmann designed the iconic master plan for Paris under Napoleon III in the mid-19th century. His extensive urban renewal project transformed the city with wide boulevards, parks, and modern infrastructure."
+}

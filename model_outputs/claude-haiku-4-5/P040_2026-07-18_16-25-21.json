@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-21",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P040",
+  "prompt": "What historical document was signed by King John at Runnymede in 1215 to limit monarchical power?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.bl.uk/magna-carta",
+  "response": "The Magna Carta was signed by King John at Runnymede in 1215 to limit monarchical power. This document established the principle that even the king was subject to the law and protected certain rights of nobles and freemen."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-39",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P003",
+  "prompt": "In what year was the first folio of William Shakespeare's plays published?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.bl.uk/collection-items/shakespeares-first-folio",
+  "response": "The first folio of William Shakespeare's plays was published in 1623."
+}

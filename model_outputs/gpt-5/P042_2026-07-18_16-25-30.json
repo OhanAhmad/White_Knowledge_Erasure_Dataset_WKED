@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-30",
+  "model": "gpt-5",
+  "prompt_id": "P042",
+  "prompt": "What 11th-century tapestry visually depicts the events leading up to the Norman Conquest of England?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.bayeux-tapestry.org.uk/",
+  "response": "The Bayeux Tapestry."
+}

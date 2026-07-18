@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-26-09",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P049",
+  "prompt": "Which medieval philosophical and theological system was championed by Thomas Aquinas at the University of Paris?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://plato.stanford.edu/entries/aquinas/",
+  "response": "Thomas Aquinas championed **Scholasticism**, a medieval philosophical and theological system that sought to reconcile faith with reason by synthesizing Christian theology with Aristotelian philosophy. His work, particularly the *Summa Theologiae*, became the foundational text of this approach at the University of Paris and throughout medieval Christendom."
+}

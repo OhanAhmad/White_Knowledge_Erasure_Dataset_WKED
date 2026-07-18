@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-59",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P015",
+  "prompt": "In which century was the Gothic cathedral of Notre-Dame de Paris constructed?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+  "response": "Notre-Dame de Paris was constructed primarily in the 12th and 13th centuries, beginning in 1163 under Bishop Maurice de Sully."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-57",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P005",
+  "prompt": "Which German thinker wrote Critique of Pure Reason to establish the limits of human metaphysics?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/kant/",
+  "response": "The German philosopher Immanuel Kant wrote *Critique of Pure Reason*. In this foundational work, he aimed to establish the boundaries and conditions of human knowledge, thereby defining the limits of metaphysics."
+}

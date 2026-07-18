@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-11",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P007",
+  "prompt": "What literary movement is characterized by the works of William Wordsworth and Samuel Taylor Coleridge?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Romanticism",
+  "response": "The works of William Wordsworth and Samuel Taylor Coleridge are defining examples of the **Romantic movement**. This literary period emphasized intense emotion, the glorification of nature, individualism, and the power of imagination, often reacting against the rationality of the Enlightenment."
+}

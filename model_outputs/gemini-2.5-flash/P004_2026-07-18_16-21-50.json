@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-50",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P004",
+  "prompt": "What is the primary philosophical thesis of Thomas Hobbes's 1651 work Leviathan?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/hobbes-moral/",
+  "response": "Thomas Hobbes's *Leviathan* argues that humanity's inherent self-interest and fear of death in a \"state of nature\" inevitably lead to a \"war of all against all.\" Therefore, individuals rationally consent to a social contract, surrendering some liberties to an absolute, indivisible sovereign power, which is essential to maintain peace, order, and collective security."
+}

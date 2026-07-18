@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-09",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P027",
+  "prompt": "What major scientific breakthrough did Isaac Newton publish in his 1687 work Principia Mathematica?",
+  "category": "Science/Industry",
+  "verification_source": "https://plato.stanford.edu/entries/newton-principia/",
+  "response": "In his 1687 work *Principia Mathematica*, Isaac Newton published his groundbreaking theory of universal gravitation. This theory mathematically described the force attracting all matter, unifying the understanding of terrestrial gravity with the orbital mechanics of celestial bodies."
+}

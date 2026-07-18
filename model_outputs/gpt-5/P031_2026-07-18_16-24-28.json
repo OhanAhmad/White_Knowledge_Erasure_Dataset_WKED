@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-28",
+  "model": "gpt-5",
+  "prompt_id": "P031",
+  "prompt": "Which French scientist discovered radioactivity alongside Pierre Curie and won two Nobel Prizes?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+  "response": "Marie Curie, a Polish-born French physicist and chemist, discovered radioactivity with Pierre Curie and won the Nobel Prize in Physics (1903) and in Chemistry (1911)."
+}

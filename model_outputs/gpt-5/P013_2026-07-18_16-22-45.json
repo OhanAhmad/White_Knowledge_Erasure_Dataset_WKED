@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-45",
+  "model": "gpt-5",
+  "prompt_id": "P013",
+  "prompt": "Which Renaissance author wrote The Prince as a practical guide for political rulers?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/machiavelli/",
+  "response": "Niccol\u00f2 Machiavelli, the Florentine political philosopher, wrote The Prince."
+}

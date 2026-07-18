@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-10",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P016",
+  "prompt": "Which High Renaissance master painted the frescoes on the ceiling of the Sistine Chapel?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Sistine-Chapel",
+  "response": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512, creating one of the most iconic works of the High Renaissance."
+}

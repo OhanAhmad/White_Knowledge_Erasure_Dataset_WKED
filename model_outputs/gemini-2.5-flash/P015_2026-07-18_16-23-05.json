@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-05",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P015",
+  "prompt": "In which century was the Gothic cathedral of Notre-Dame de Paris constructed?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+  "response": "The Gothic cathedral of Notre-Dame de Paris was primarily constructed across the late 12th and 13th centuries, with its foundations laid in 1163 and the main structure largely completed by the mid-1200s."
+}

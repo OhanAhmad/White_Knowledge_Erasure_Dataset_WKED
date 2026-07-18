@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-40",
+  "model": "gpt-5",
+  "prompt_id": "P044",
+  "prompt": "What devastating pandemic swept through Europe between 1346 and 1353 wiping out a massive portion of the population?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/event/Black-Death",
+  "response": "The Black Death\u2014the bubonic plague\u2014swept through Europe from 1346 to 1353, killing an estimated one-third to one-half of the population."
+}

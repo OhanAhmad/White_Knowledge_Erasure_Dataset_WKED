@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-29",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P031",
+  "prompt": "Which French scientist discovered radioactivity alongside Pierre Curie and won two Nobel Prizes?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/",
+  "response": "Marie Curie discovered radioactivity alongside Pierre Curie and won two Nobel Prizes\u2014one in Physics (1903, shared with Pierre Curie and Henri Becquerel) and one in Chemistry (1911, for the discovery of polonium and radium)."
+}

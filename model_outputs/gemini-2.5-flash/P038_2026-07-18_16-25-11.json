@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-11",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P038",
+  "prompt": "What Anglo-Saxon epic poem features a Scandinavian hero who defeats the monster Grendel?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Beowulf",
+  "response": "The Anglo-Saxon epic poem featuring a Scandinavian hero who defeats the monster Grendel is **Beowulf**. The titular hero, Beowulf, is a Geatish warrior who comes to the aid of the Danish king Hrothgar."
+}

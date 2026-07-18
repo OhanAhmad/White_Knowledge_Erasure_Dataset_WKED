@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-58",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P025",
+  "prompt": "Which Dutch De Stijl artist is famous for his grid-based paintings featuring primary colors?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.guggenheim.org/artwork/artist/piet-mondrian",
+  "response": "Piet Mondrian is the Dutch De Stijl artist famous for his grid-based paintings featuring primary colors. His iconic style, known as Neoplasticism, used horizontal and vertical lines with blocks of red, yellow, and blue."
+}

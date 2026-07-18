@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-38",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P043",
+  "prompt": "Which German printing pioneer compiled and printed the 42-line Bible using movable type in Mainz?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/biography/Johannes-Gutenberg",
+  "response": "Johannes Gutenberg, a German printing pioneer, compiled and printed the 42-line Bible using movable type in Mainz. This groundbreaking work, completed around 1455, is also known as the Gutenberg Bible."
+}

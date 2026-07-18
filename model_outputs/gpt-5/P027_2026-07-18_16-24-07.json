@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-07",
+  "model": "gpt-5",
+  "prompt_id": "P027",
+  "prompt": "What major scientific breakthrough did Isaac Newton publish in his 1687 work Principia Mathematica?",
+  "category": "Science/Industry",
+  "verification_source": "https://plato.stanford.edu/entries/newton-principia/",
+  "response": "Newton\u2019s Principia (1687) set out the three laws of motion and the universal law of gravitation, creating the mathematical framework of classical mechanics. It unified celestial and terrestrial motion, explaining planetary orbits and phenomena on Earth under the same laws."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-52",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P014",
+  "prompt": "Who designed the dome of the Florence Cathedral (Santa Maria del Fiore)?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/biography/Filippo-Brunelleschi",
+  "response": "The dome of the Florence Cathedral was designed by Filippo Brunelleschi, who completed this architectural masterpiece between 1420 and 1436. His innovative engineering techniques and use of a double-shell dome structure made it one of the greatest achievements of the Renaissance."
+}

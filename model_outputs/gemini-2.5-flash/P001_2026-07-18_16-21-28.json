@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-28",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P001",
+  "prompt": "Who wrote the 14th-century allegorical poem Piers Plowman?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Piers-Plowman",
+  "response": "William Langland is traditionally credited as the author of the 14th-century allegorical poem *Piers Plowman*. While some scholarly debate exists regarding his precise identity, he is widely accepted as its writer."
+}

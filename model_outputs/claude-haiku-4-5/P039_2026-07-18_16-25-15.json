@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-15",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P039",
+  "prompt": "Which King of the Franks was crowned Emperor of the Romans by Pope Leo III on Christmas Day 800?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/biography/Charlemagne",
+  "response": "Charlemagne (Charles the Great) was crowned Emperor of the Romans by Pope Leo III on Christmas Day 800. This coronation marked the beginning of the Carolingian Empire and is traditionally considered the start of the Holy Roman Empire."
+}

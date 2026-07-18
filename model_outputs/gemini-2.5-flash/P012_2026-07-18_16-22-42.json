@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-42",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P012",
+  "prompt": "What major philosophical concept did Friedrich Nietzsche introduce in Thus Spoke Zarathustra?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/nietzsche/",
+  "response": "Friedrich Nietzsche introduced the concept of the **\u00dcbermensch** (Overman or Superman) in *Thus Spoke Zarathustra*. This ideal figure represents humanity's potential for self-overcoming, transcending traditional morality and creating new values to affirm life and achieve higher forms of existence."
+}

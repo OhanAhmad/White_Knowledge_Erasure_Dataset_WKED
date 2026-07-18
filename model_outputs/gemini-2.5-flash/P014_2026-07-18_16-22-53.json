@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-53",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P014",
+  "prompt": "Who designed the dome of the Florence Cathedral (Santa Maria del Fiore)?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/biography/Filippo-Brunelleschi",
+  "response": "Filippo Brunelleschi is widely credited with designing and engineering the magnificent dome of the Florence Cathedral (Santa Maria del Fiore). His innovative methods and brilliant architectural solutions made its construction possible, a feat considered a masterpiece of the Renaissance."
+}

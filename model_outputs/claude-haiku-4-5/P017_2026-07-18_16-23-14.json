@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-14",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P017",
+  "prompt": "What architectural style is defined by the use of flying buttresses ribbed vaults and pointed arches?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Gothic-architecture",
+  "response": "Gothic architecture is defined by the use of flying buttresses, ribbed vaults, and pointed arches. These features emerged in medieval Europe, primarily during the 12th to 16th centuries, and allowed for taller walls, larger windows, and more elaborate decorative elements."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-02",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P006",
+  "prompt": "Who authored the 19th-century existential realist novel Crime and Punishment?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Crime-and-Punishment-novel-by-Dostoyevsky",
+  "response": "Fyodor Dostoevsky authored the 19th-century existential realist novel *Crime and Punishment*. He was a renowned Russian novelist, philosopher, and essayist."
+}

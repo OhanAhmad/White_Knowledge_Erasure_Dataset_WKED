@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-14",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P028",
+  "prompt": "Who discovered the mathematical laws of planetary motion using Tycho Brahe's observational data?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Johannes-Kepler",
+  "response": "Johannes Kepler discovered the mathematical laws of planetary motion. He formulated his three laws by meticulously analyzing the extensive and precise astronomical observations recorded by Tycho Brahe."
+}

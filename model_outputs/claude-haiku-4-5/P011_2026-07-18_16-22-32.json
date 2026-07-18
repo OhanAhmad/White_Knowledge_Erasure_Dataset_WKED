@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-32",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P011",
+  "prompt": "Who wrote the foundational Italian epic poem The Divine Comedy in the early 14th century?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/The-Divine-Comedy",
+  "response": "Dante Alighieri wrote The Divine Comedy in the early 14th century. This foundational Italian epic poem is considered one of the greatest works of world literature."
+}

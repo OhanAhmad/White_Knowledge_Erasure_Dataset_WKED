@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-26-08",
+  "model": "gpt-5",
+  "prompt_id": "P049",
+  "prompt": "Which medieval philosophical and theological system was championed by Thomas Aquinas at the University of Paris?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://plato.stanford.edu/entries/aquinas/",
+  "response": "Scholasticism\u2014specifically the Aristotelian-based Thomist synthesis of faith and reason, later known as Thomism."
+}

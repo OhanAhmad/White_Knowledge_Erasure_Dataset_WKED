@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-57",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P036",
+  "prompt": "Who developed the process for mass-producing steel by blowing air through molten pig iron in 1856?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/technology/Bessemer-process",
+  "response": "Henry Bessemer developed the Bessemer process in 1856, which revolutionized steel production by allowing air to be blown through molten pig iron to remove impurities and mass-produce steel efficiently."
+}

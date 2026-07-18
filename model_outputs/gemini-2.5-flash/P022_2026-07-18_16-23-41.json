@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-41",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P022",
+  "prompt": "Which Bauhaus architect designed the iconic Barcelona Pavilion for the 1929 International Exposition?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.miesbcn.com/the-pavilion",
+  "response": "Ludwig Mies van der Rohe, a prominent architect associated with the Bauhaus movement, designed the iconic Barcelona Pavilion for the 1929 International Exposition."
+}

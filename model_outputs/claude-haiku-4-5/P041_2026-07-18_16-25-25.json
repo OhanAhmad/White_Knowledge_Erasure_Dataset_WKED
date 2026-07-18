@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-25",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P041",
+  "prompt": "Who is the central mythical king associated with the Knights of the Round Table in British folklore?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Arthurian-legend",
+  "response": "King Arthur is the central mythical king associated with the Knights of the Round Table in British folklore. He is the legendary ruler of Britain who gathered his most noble knights around a round table at his court in Camelot."
+}

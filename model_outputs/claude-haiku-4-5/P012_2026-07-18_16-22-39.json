@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-39",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P012",
+  "prompt": "What major philosophical concept did Friedrich Nietzsche introduce in Thus Spoke Zarathustra?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/nietzsche/",
+  "response": "Nietzsche's major concept in *Thus Spoke Zarathustra* is the **\u00dcbermensch** (or \"overman\"), a superior individual who transcends conventional morality and creates their own values beyond good and evil. The work also emphasizes the idea of eternal recurrence\u2014the thought experiment that one should live as if compelled to repeat one's life infinitely\u2014as a test of life affirmation."
+}

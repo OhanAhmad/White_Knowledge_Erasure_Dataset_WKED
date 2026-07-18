@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-45",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P033",
+  "prompt": "What foundational genetics laws were established by Gregor Mendel through his study of pea plants?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Gregor-Mendel",
+  "response": "Gregor Mendel established the Law of Segregation, stating that alleles for each gene separate during gamete formation, and the Law of Independent Assortment, which describes how alleles for different genes are inherited independently of each other. These principles laid the foundation for understanding inheritance."
+}

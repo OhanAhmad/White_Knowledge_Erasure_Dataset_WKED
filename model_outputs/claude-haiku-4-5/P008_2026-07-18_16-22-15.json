@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-15",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P008",
+  "prompt": "Which modernist author wrote the stream-of-consciousness novel Mrs. Dalloway?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Mrs-Dalloway",
+  "response": "Virginia Woolf wrote Mrs. Dalloway, published in 1925, which is considered one of the most important modernist novels and a pioneering example of stream-of-consciousness narrative technique."
+}

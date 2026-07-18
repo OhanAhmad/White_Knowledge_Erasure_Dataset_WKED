@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-16",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P017",
+  "prompt": "What architectural style is defined by the use of flying buttresses ribbed vaults and pointed arches?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Gothic-architecture",
+  "response": "The architectural style defined by the use of flying buttresses, ribbed vaults, and pointed arches is Gothic. These elements allowed for taller, thinner walls and larger stained-glass windows, creating soaring, light-filled spaces."
+}

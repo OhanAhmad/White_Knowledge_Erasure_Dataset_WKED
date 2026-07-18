@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-21-34",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P002",
+  "prompt": "Which French philosopher famously proclaimed Cogito ergo sum and authored Meditations on First Philosophy?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/descartes/",
+  "response": "Ren\u00e9 Descartes is the French philosopher who famously proclaimed \"Cogito ergo sum\" (I think, therefore I am) and authored *Meditations on First Philosophy*."
+}

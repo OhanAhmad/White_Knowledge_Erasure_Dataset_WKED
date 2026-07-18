@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-01",
+  "model": "gpt-5",
+  "prompt_id": "P026",
+  "prompt": "Who published On the Revolutions of the Heavenly Spheres in 1543 proposing a heliocentric model?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+  "response": "Nicolaus Copernicus, the Polish astronomer, published it in 1543."
+}

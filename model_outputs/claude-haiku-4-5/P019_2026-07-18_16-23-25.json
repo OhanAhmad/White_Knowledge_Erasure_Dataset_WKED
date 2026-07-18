@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-25",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P019",
+  "prompt": "Which Dutch Golden Age artist painted The Night Watch in 1642?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.rijksmuseum.nl/en/collection/SK-C-5",
+  "response": "Rembrandt painted The Night Watch in 1642. It is one of his most famous works and is housed in the Rijksmuseum in Amsterdam."
+}

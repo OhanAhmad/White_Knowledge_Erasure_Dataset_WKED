@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-02",
+  "model": "gpt-5",
+  "prompt_id": "P037",
+  "prompt": "Which chemist discovered oxygen independently and published his findings in Experiments and Observations on Different Kinds of Air?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Joseph-Priestley",
+  "response": "Joseph Priestley. He independently discovered oxygen in 1774 and described it as \u201cdephlogisticated air\u201d in his Experiments and Observations on Different Kinds of Air."
+}

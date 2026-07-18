@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-18",
+  "model": "gpt-5",
+  "prompt_id": "P018",
+  "prompt": "Who sculpted the Baroque masterpiece The Ecstasy of Saint Teresa?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/biography/Gian-Lorenzo-Bernini",
+  "response": "Gian Lorenzo Bernini."
+}

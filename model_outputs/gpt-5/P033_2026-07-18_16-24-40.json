@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-40",
+  "model": "gpt-5",
+  "prompt_id": "P033",
+  "prompt": "What foundational genetics laws were established by Gregor Mendel through his study of pea plants?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/Gregor-Mendel",
+  "response": "Gregor Mendel established the laws of segregation, independent assortment, and dominance: allele pairs separate during gamete formation, genes for different traits assort independently, and dominant alleles can mask recessive ones."
+}

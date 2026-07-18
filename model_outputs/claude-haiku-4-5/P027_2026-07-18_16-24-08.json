@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-08",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P027",
+  "prompt": "What major scientific breakthrough did Isaac Newton publish in his 1687 work Principia Mathematica?",
+  "category": "Science/Industry",
+  "verification_source": "https://plato.stanford.edu/entries/newton-principia/",
+  "response": "In *Principia Mathematica*, Newton published his law of universal gravitation and his three laws of motion, which established the mathematical foundation for classical mechanics and explained how objects move and interact through gravitational forces. This work revolutionized science by providing a unified framework for understanding both celestial and terrestrial motion."
+}

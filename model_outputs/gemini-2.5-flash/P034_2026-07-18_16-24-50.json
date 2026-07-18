@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-50",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P034",
+  "prompt": "Who formulated the Special Theory of Relativity in his 1905 Annus Mirabilis papers?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  "response": "Albert Einstein formulated the Special Theory of Relativity, publishing his groundbreaking work in his 1905 Annus Mirabilis papers."
+}

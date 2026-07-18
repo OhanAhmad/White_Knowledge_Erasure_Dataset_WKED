@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-11",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P016",
+  "prompt": "Which High Renaissance master painted the frescoes on the ceiling of the Sistine Chapel?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/topic/Sistine-Chapel",
+  "response": "Michelangelo, a prominent High Renaissance master, painted the magnificent frescoes adorning the ceiling of the Sistine Chapel. This monumental work, commissioned by Pope Julius II, was completed between 1508 and 1512."
+}

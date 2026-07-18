@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-56",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P025",
+  "prompt": "Which Dutch De Stijl artist is famous for his grid-based paintings featuring primary colors?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.guggenheim.org/artwork/artist/piet-mondrian",
+  "response": "Piet Mondrian is the Dutch De Stijl artist famous for his grid-based paintings featuring primary colors (red, blue, and yellow) along with black lines and white spaces. His abstract compositions exemplify the De Stijl movement's commitment to geometric abstraction and universal harmony."
+}

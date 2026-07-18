@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-24",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P030",
+  "prompt": "Who formulated the mathematical laws of electromagnetism unifying electricity and magnetism in 1865?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.britannica.com/biography/James-Clerk-Maxwell",
+  "response": "James Clerk Maxwell formulated the mathematical laws of electromagnetism, unifying electricity and magnetism through his four equations (Maxwell's equations) published in 1865."
+}

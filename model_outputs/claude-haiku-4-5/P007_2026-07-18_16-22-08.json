@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-08",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P007",
+  "prompt": "What literary movement is characterized by the works of William Wordsworth and Samuel Taylor Coleridge?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Romanticism",
+  "response": "The Romantic movement, which emerged in the late 18th and early 19th centuries, is characterized by the works of Wordsworth and Coleridge. This movement emphasized emotion, nature, imagination, and individual experience, as exemplified in their collaborative work *Lyrical Ballads* (1798)."
+}

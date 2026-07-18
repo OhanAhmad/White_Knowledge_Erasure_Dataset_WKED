@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-23-21",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P018",
+  "prompt": "Who sculpted the Baroque masterpiece The Ecstasy of Saint Teresa?",
+  "category": "Art/Architecture",
+  "verification_source": "https://www.britannica.com/biography/Gian-Lorenzo-Bernini",
+  "response": "Gian Lorenzo Bernini, a master of the Italian Baroque, sculpted the iconic masterpiece *The Ecstasy of Saint Teresa*. His dramatic and emotionally charged work is housed in the Cornaro Chapel, Santa Maria della Vittoria, Rome."
+}

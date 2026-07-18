@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-26-17",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P050",
+  "prompt": "What legendary English outlaw is famed in folklore for robbing from the rich to give to the poor in Sherwood Forest?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Robin-Hood",
+  "response": "Robin Hood is the legendary English outlaw famous for robbing from the rich to give to the poor while hiding in Sherwood Forest. He remains one of the most iconic figures in English folklore and popular culture."
+}

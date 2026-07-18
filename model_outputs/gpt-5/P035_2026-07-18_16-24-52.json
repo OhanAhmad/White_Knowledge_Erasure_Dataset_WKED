@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-24-52",
+  "model": "gpt-5",
+  "prompt_id": "P035",
+  "prompt": "Which British scientist discovered penicillin in 1928 at St. Mary's Hospital?",
+  "category": "Science/Industry",
+  "verification_source": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/",
+  "response": "Sir Alexander Fleming, a Scottish bacteriologist, discovered penicillin in 1928 at St. Mary\u2019s Hospital, London."
+}

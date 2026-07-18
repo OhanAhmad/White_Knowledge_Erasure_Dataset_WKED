@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-13",
+  "model": "gpt-5",
+  "prompt_id": "P008",
+  "prompt": "Which modernist author wrote the stream-of-consciousness novel Mrs. Dalloway?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://www.britannica.com/topic/Mrs-Dalloway",
+  "response": "The English modernist author Virginia Woolf wrote Mrs. Dalloway."
+}

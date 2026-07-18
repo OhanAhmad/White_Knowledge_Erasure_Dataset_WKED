@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-45",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P045",
+  "prompt": "Who compiled the Arthurian legends into the definitive late-medieval prose work Le Morte d'Arthur?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Le-Morte-dArthur",
+  "response": "Sir Thomas Malory compiled the Arthurian legends into *Le Morte d'Arthur*, which was completed around 1470 and is considered the definitive late-medieval prose work on King Arthur and his knights."
+}

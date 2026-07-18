@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-50",
+  "model": "gpt-5",
+  "prompt_id": "P046",
+  "prompt": "What major compilation of Norse mythology and poetry was recorded in 13th-century Iceland by Snorri Sturluson?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Edda",
+  "response": "The Prose Edda (also called the Snorra Edda or Younger Edda)."
+}

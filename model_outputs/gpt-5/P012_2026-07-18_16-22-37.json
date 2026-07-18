@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-22-37",
+  "model": "gpt-5",
+  "prompt_id": "P012",
+  "prompt": "What major philosophical concept did Friedrich Nietzsche introduce in Thus Spoke Zarathustra?",
+  "category": "Philosophy/Literature",
+  "verification_source": "https://plato.stanford.edu/entries/nietzsche/",
+  "response": "The \u00dcbermensch (Overman/Superman), an ideal of self-overcoming who creates new values beyond conventional morality."
+}

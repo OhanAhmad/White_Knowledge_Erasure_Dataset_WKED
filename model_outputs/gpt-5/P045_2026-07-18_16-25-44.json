@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-07-18_16-25-44",
+  "model": "gpt-5",
+  "prompt_id": "P045",
+  "prompt": "Who compiled the Arthurian legends into the definitive late-medieval prose work Le Morte d'Arthur?",
+  "category": "Folklore/Medieval",
+  "verification_source": "https://www.britannica.com/topic/Le-Morte-dArthur",
+  "response": "Sir Thomas Malory. His compilation was published by William Caxton in 1485 as Le Morte d'Arthur."
+}
